@@ -12,7 +12,7 @@ If you want to add new lines of text, press `Shift + Command` to add a new line.
 
 While writing or editing messages, you can move the cursor using the arrow keys. Where the cursor moves depends on the wrapping of the text.
 
-Hold `Alt` or `Command` while pressing the right or left arrow keys to move the cursor to the beginning or end of the message.
+Hold `Alt` or `Enter` while pressing the right or left arrow keys to move the cursor to the beginning or end of the message.
 
 ## Notify Other Team Members
 
